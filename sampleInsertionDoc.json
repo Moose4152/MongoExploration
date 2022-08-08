@@ -1,0 +1,10 @@
+{
+  firstName : "Arjun",
+  lastName : "Sigh",
+  Address : ["Jamnagar House, 10A, Akbar Rd",
+    "New Delhi, Delhi 110001"],
+  Job : "Software Enginner",
+  Company : "Google",
+  Age : 32,
+  Experience(in years) : 7.2
+}
